@@ -1,6 +1,6 @@
 ---
 title: "Basic Python"
-date: 10-06-2025
+date: 2025-06-10
 ---
 # Basic Python
 **Author:** Minh Phuoc  
