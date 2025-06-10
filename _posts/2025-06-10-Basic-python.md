@@ -1,5 +1,5 @@
 ---
-title: "Python Functions"
+title: "Basic python"
 date: 2025-06-10
 ---
 
