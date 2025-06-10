@@ -7,6 +7,10 @@ date: 2025-06-10
 This is where I share articles about Python and programming.
 
 ## 📌 List of Articles  
-[📖 Basic Python](./_posts/2025-06-10-Basic-python.md)  
+
+{% for post in site.posts %}
+- **[{{ post.title }}]({{ post.url }})** ({{ post.date | date: "%d-%m-%Y" }})  
+{% endfor %}
+
 
 📌 The blog is updated regularly—stay tuned for new posts!
