@@ -1,3 +1,8 @@
+---
+title: "Python Functions"
+date: 2025-06-10
+---
+
 # Basic Python
 **Author:** Minh Phuoc  
 **Date:** June 2025  
