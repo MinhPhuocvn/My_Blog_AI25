@@ -2,10 +2,6 @@
 title: "Basic Python"
 date: 2025-06-10
 ---
-{% for post in site.posts %}
-- **{{ post.title }}** ({{ post.date | date: "%d-%m-%Y" }})  
-{% endfor %}
-
 # Basic Python
 **Author:** Minh Phuoc  
 **Date:** June 2025  
