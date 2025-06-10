@@ -1,5 +1,5 @@
 ---
-title: "Basic python"
+title: "Basic Python"
 date: 2025-06-10
 ---
 
