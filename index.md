@@ -1,5 +1,5 @@
 ---
-title: "My Python Blog"
+title: "Welcome to My Blog"
 date: 2025-06-10
 ---
 
