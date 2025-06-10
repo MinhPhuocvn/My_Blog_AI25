@@ -11,6 +11,5 @@ This is where I share articles about Python and programming.
 {% for post in site.posts %}
 - **[{{ post.title }}]({{ post.url }})** ({{ post.date | date: "%d-%m-%Y" }})  
 {% endfor %}
-permalink: /:year/:month/:day/:title/
 
 📌 The blog is updated regularly—stay tuned for new posts!
