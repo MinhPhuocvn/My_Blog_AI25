@@ -1,13 +1,12 @@
 ---
-title: "Blog Python của tôi"
+title: "My Python Blog"
 date: 2025-06-10
 ---
 
-# Chào mừng đến với blog của tôi 🚀  
-Đây là nơi mình chia sẻ các bài viết về Python và lập trình.
+# 🚀  
+This is where I share articles about Python and programming.
 
-## 📌 Danh sách bài viết  
-[📖Basic Python](./_posts/2025-06-10-Basic-python.md)  
+## 📌 List of Articles  
+[📖 Basic Python](./_posts/2025-06-10-Basic-python.md)  
 
-
-📌 Blog được cập nhật thường xuyên, theo dõi để xem thêm bài viết mới nhé!
+📌 The blog is updated regularly—stay tuned for new posts!
