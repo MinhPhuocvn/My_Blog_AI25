@@ -1,5 +1,5 @@
 ---
-title: "Logical Thinking & Problem Solving in AI"
+title: "Logical Thinking and Problem Solving in AI"
 date: 2025-07-08
 ---
 
