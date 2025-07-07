@@ -1,1 +1,13 @@
+# 📘 Tiêu đề chính
+
+## 🔹 Mục tiêu
+- Hiểu cách viết Markdown cơ bản
+- Kiểm tra hiển thị trên GitHub
+
+## 💻 Đoạn mã ví dụ (Python)
+```python
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("Phuoc"))
 
