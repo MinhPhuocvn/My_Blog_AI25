@@ -1,13 +1,11 @@
-# 📘 Tiêu đề chính
+# 📚 Giới thiệu về List trong Python
 
-## 🔹 Mục tiêu
-- Hiểu cách viết Markdown cơ bản
-- Kiểm tra hiển thị trên GitHub
+## ✅ List là gì?
+List (danh sách) là một kiểu dữ liệu có thể chứa nhiều giá trị, được đặt trong dấu ngoặc vuông `[]`.
 
-## 💻 Đoạn mã ví dụ (Python)
+## 🧪 Cách tạo một list
 ```python
-def greet(name):
-    return f"Hello, {name}!"
+# Tạo một list đơn giản
+fruits = ["Táo", "Cam", "Chuối"]
 
-print(greet("Phuoc"))
 
