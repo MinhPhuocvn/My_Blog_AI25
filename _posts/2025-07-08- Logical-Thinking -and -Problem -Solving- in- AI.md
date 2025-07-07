@@ -1,7 +1,7 @@
 ---
 title: "Logical Thinking & Problem Solving in AI"
 date: 2025-07-08
---
+---
 
 # 📘 Logical Thinking & Problem Solving in AI
 
